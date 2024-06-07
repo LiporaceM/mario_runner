@@ -41,14 +41,14 @@ cd mario-runner
 python mario_runner.py
 ```
 
-#Capturas de Tela <br>
-##Tela Inicial <br>
+# Capturas de Tela <br>
+## Tela Inicial <br>
 ![Captura de tela 2024-06-06 205514](https://github.com/LiporaceM/mario_runner/assets/108703224/f67502b3-27fb-4a63-b25e-bff1c3528b48)
 
-##Jogo em Execução <br>
+## Jogo em Execução <br>
 ![Captura de tela 2024-06-06 205541](https://github.com/LiporaceM/mario_runner/assets/108703224/8d38eea7-279a-4757-abee-f56088eb9625)
 
-##Tela de Game Over <br>
+## Tela de Game Over <br>
 ![Captura de tela 2024-06-06 205546](https://github.com/LiporaceM/mario_runner/assets/108703224/85128de8-2c49-44e6-a8ae-a5f8ce99ecbd)
 
 ## Controles <br>
