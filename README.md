@@ -47,6 +47,9 @@ python mario_runner.py
 
 ## Tela de Game Over <br>
 ![Captura de tela 2024-06-06 205546](https://github.com/LiporaceM/mario_runner/assets/108703224/85128de8-2c49-44e6-a8ae-a5f8ce99ecbd)
+## GamePlay <br>
+
+https://github.com/LiporaceM/mario_runner/assets/108703224/7318a256-c6cd-4e8f-bb1a-e7fc636900e6
 
 ## Controles <br>
 Espaço: Pular <br>
