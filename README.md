@@ -24,16 +24,17 @@ Mario Runner é um jogo 2D desenvolvido em Python usando a biblioteca Pygame. O 
    ```bash
    pip install pygame
 3. Baixe ou clone este repositório:
-   bash
+   ```bash
    git clone https://github.com/LiporaceM/mario-runner.git
  
 4.Navegue até o diretório do projeto
-  bash
+  ```bash
   cd mario-runner
 5.Executando o Jogo
 Para iniciar o jogo, execute o script principal:
-  bash
+  ```bash
   python mario_runner.py
+```
 #Capturas de Tela
 ##Tela Inicial
 
