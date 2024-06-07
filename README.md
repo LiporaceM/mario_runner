@@ -3,9 +3,6 @@
 ## Descrição
 Mario Runner é um jogo 2D desenvolvido em Python usando a biblioteca Pygame. O objetivo do jogo é controlar o Mario enquanto ele desvia de obstáculos como Goombas e Koopa Troopas.
 
-## Nomes
-- Matheus Guimaraes Liporace
-
 ## Funcionalidades
 - Controle do Mario para pular sobre os obstáculos
 - Obstáculos em movimento contínuo
